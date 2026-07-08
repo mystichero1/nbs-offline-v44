@@ -12,4 +12,4 @@ applyPatches();
 Logger.info("Patches applied");
 player.applyConfig(config);
 addDebugFile();
-Logger.info("NBS Offline loaded");
+Logger.info("Mystic Offline loaded");
