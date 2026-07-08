@@ -8,8 +8,8 @@ export class Config {
     static build = 226;
     static minor = 1;
     name = "MysticHero";
-    coins = 0;
-    gems = 0;
+    coins = 67;
+    gems = 67;
     starpoints = 0;
     experienceLevel = 0;
     experience = 0;
