@@ -3,7 +3,7 @@ import { Config } from "./config.js";
 import { calculateHighestTrophies, calculateTrophies } from "./util.js";
 
 export class Player {
-    name = "Natesworks";
+    name = "MysticHero";
     token = "pXrvhSEPBUQo70jmePrPVQmHJHUQMrpWav82U1kH";
     id = [0, 1];
     registered = true;
@@ -18,7 +18,7 @@ export class Player {
     tokens = 0;
     level = 1;
     gems = 0;
-    supportedCreator = "Natesworks";
+    supportedCreator = "MysticHero";
     region = "PL";
     tokenDoublers = 0;
     selectedBrawlers = [0, 1, 2];
