@@ -7,7 +7,7 @@ export class Config {
     static major = 44;
     static build = 226;
     static minor = 1;
-    name = "Natesworks";
+    name = "MysticHero";
     coins = 0;
     gems = 0;
     starpoints = 0;
