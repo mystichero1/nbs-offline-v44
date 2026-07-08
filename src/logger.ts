@@ -6,7 +6,7 @@ const ANDROID_LOG_DEBUG = 3;
 const ANDROID_LOG_WARN = 5;
 const ANDROID_LOG_ERROR = 6;
 
-const tag = Memory.allocUtf8String("NBSOFFLINE");
+const tag = Memory.allocUtf8String("MYSTICOFFLINE");
 
 function androidLog(level: number, text: string): void {
     const message = Memory.allocUtf8String(text);
